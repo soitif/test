@@ -1,4 +1,4 @@
 <?php
 //备注
 phpinfo();
-//ddddd
+//2.0
