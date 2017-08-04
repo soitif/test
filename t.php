@@ -1,4 +1,4 @@
 <?php
 //备注
 phpinfo();
-//haode
+//2.0
